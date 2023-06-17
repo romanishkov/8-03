@@ -42,6 +42,7 @@
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
+### Ответ
 [https://github.com/romanishkov/8-03_exercises/commit/37deeb2b9e034903349675a03a3da1bf625f5c64](https://github.com/romanishkov/8-03_exercises/commit/37deeb2b9e034903349675a03a3da1bf625f5c64)
 
 ---
@@ -57,6 +58,7 @@
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
+### Ответ
 [https://github.com/romanishkov/8-03_exercises/commit/05873303e990e25d9d84561a5eba4bcc56e22008](https://github.com/romanishkov/8-03_exercises/commit/05873303e990e25d9d84561a5eba4bcc56e22008)
 
 ---
@@ -73,12 +75,9 @@
 
 В качестве ответа прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
 
+### Ответ
 [https://github.com/romanishkov/8-03_exercises/network](https://github.com/romanishkov/8-03_exercises/network)
 
----
-## Дополнительные задания* (со звёздочкой)
-
-Их выполнение необязательное и не влияет на получение зачёта по домашнему заданию. Можете их решить, если хотите лучше разобраться в материале.
 
 ---
 ### Задание 4*
@@ -97,4 +96,6 @@
 
 В качестве ответа на задание прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
 
+
+### Ответ
 [https://github.com/romanishkov/8-03_exercises/network](https://github.com/romanishkov/8-03_exercises/network)
