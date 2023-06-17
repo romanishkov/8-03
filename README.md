@@ -42,7 +42,7 @@
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
-[](https://github.com/romanishkov/8-03_exercises/commit/37deeb2b9e034903349675a03a3da1bf625f5c64)
+[https://github.com/romanishkov/8-03_exercises/commit/37deeb2b9e034903349675a03a3da1bf625f5c64](https://github.com/romanishkov/8-03_exercises/commit/37deeb2b9e034903349675a03a3da1bf625f5c64)
 
 ---
 
@@ -57,7 +57,7 @@
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
-[](https://github.com/romanishkov/8-03_exercises/commit/05873303e990e25d9d84561a5eba4bcc56e22008)
+[https://github.com/romanishkov/8-03_exercises/commit/05873303e990e25d9d84561a5eba4bcc56e22008](https://github.com/romanishkov/8-03_exercises/commit/05873303e990e25d9d84561a5eba4bcc56e22008)
 
 ---
 
@@ -73,7 +73,7 @@
 
 В качестве ответа прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
 
-[](https://github.com/romanishkov/8-03_exercises/network)
+[https://github.com/romanishkov/8-03_exercises/network](https://github.com/romanishkov/8-03_exercises/network)
 
 ---
 ## Дополнительные задания* (со звёздочкой)
@@ -97,4 +97,4 @@
 
 В качестве ответа на задание прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
 
-[](https://github.com/romanishkov/8-03_exercises/network)
+[https://github.com/romanishkov/8-03_exercises/network](https://github.com/romanishkov/8-03_exercises/network)
